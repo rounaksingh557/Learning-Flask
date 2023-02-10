@@ -1,0 +1,3 @@
+flask
+autopep8
+python-dotenv

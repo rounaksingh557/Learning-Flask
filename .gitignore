@@ -1,0 +1,9 @@
+#Folders
+/.vscode
+/Include
+/Lib
+/Scripts
+/__pycache__
+
+#Files
+/pyvenv.cfg
