@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def index() -> str:
     'This is the initial function of the app.'
-    return render_template('index.html', name="Rounak Singh")
+    return render_template('index.html')
 
 
 if __name__ == "__main__":
