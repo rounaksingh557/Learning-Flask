@@ -1,5 +1,6 @@
 flask
 autopep8
 python-dotenv
-pandad
+pandas
 numpy
+tensorflow==2.10.0
