@@ -3,6 +3,8 @@
 /Include
 /Lib
 /Scripts
+/lib
+/bin
 /__pycache__
 
 #Files
